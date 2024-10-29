@@ -1,0 +1,24 @@
+.hero-section {
+  background: url("https://spicmacay.org/banner-image.jpg") no-repeat center
+    center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  color: white;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+    display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+}
